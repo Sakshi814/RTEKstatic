@@ -74,7 +74,7 @@
         }
     });
     $(".product-carousel").owlCarousel({
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 1000,
         margin: 25,
         loop: true,

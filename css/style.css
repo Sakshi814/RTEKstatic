@@ -271,8 +271,9 @@
 }
 
 .product-item {
-    box-shadow: 0 0 5px rgb(18, 145, 184);
+    box-shadow:0 0 5px #8ba5f5;
     border-radius: 15px;
+    margin: 1rem;
 }
 
 .product-item img {
@@ -290,7 +291,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
 }
 
 .container {
@@ -447,12 +448,12 @@ body {
 
 /* Position the previous button on the left */
 .custom-prev {
-    left: -40px; /* Adjust the value to position it further left if needed */
+    left: -30px; 
 }
 
 /* Position the next button on the right */
 .custom-next {
-    right: -40px; /* Adjust the value to position it further right if needed */
+    right: -30px;
 }
 
 /* Optional: add some hover effect */
